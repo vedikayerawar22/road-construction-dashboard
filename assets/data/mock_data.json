@@ -1,0 +1,264 @@
+{
+  "projects": [
+    {
+      "id": "PRJ001",
+      "name": "NH-48 Widening Phase 2",
+      "district": "Pune",
+      "authority": "PWD Maharashtra",
+      "contractor": "L&T Infrastructure",
+      "completionPercent": 78,
+      "status": "In Progress",
+      "startDate": "2024-01-15",
+      "endDate": "2025-09-30",
+      "budgetCr": 145.5,
+      "spentCr": 108.2,
+      "lengthKm": 32.5,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 100},
+        {"name": "Sub-base Laying", "progress": 90},
+        {"name": "Bituminous Layer", "progress": 65},
+        {"name": "Drainage & Signage", "progress": 40}
+      ],
+      "timeline": [
+        {"date": "2024-01-15", "event": "Project Kickoff"},
+        {"date": "2024-04-10", "event": "Land Acquisition Completed"},
+        {"date": "2024-09-05", "event": "Earthwork Completed"},
+        {"date": "2025-03-20", "event": "Sub-base Layer 90% Done"},
+        {"date": "2025-07-01", "event": "Bituminous Work Ongoing"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "1,250 MT", "status": "Delivered"},
+        {"name": "Aggregate (20mm)", "quantity": "8,400 MT", "status": "Delivered"},
+        {"name": "Cement", "quantity": "3,100 MT", "status": "In Transit"},
+        {"name": "Steel Reinforcement", "quantity": "620 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ002",
+      "name": "Nagpur Ring Road Extension",
+      "district": "Nagpur",
+      "authority": "NHAI",
+      "contractor": "Dilip Buildcon",
+      "completionPercent": 45,
+      "status": "In Progress",
+      "startDate": "2024-06-01",
+      "endDate": "2026-01-31",
+      "budgetCr": 320.0,
+      "spentCr": 142.4,
+      "lengthKm": 58.0,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 70},
+        {"name": "Sub-base Laying", "progress": 35},
+        {"name": "Bituminous Layer", "progress": 10},
+        {"name": "Drainage & Signage", "progress": 5}
+      ],
+      "timeline": [
+        {"date": "2024-06-01", "event": "Project Kickoff"},
+        {"date": "2024-11-15", "event": "Land Acquisition Completed"},
+        {"date": "2025-05-10", "event": "Earthwork 70% Done"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "900 MT", "status": "In Transit"},
+        {"name": "Aggregate (20mm)", "quantity": "12,000 MT", "status": "Delivered"},
+        {"name": "Cement", "quantity": "5,200 MT", "status": "Pending"}
+      ]
+    },
+    {
+      "id": "PRJ003",
+      "name": "Aurangabad-Jalna Bypass",
+      "district": "Aurangabad",
+      "authority": "PWD Maharashtra",
+      "contractor": "GR Infraprojects",
+      "completionPercent": 22,
+      "status": "Delayed",
+      "startDate": "2023-11-01",
+      "endDate": "2025-02-28",
+      "budgetCr": 98.0,
+      "spentCr": 40.1,
+      "lengthKm": 18.2,
+      "delayDays": 145,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 40},
+        {"name": "Sub-base Laying", "progress": 15},
+        {"name": "Bituminous Layer", "progress": 0},
+        {"name": "Drainage & Signage", "progress": 0}
+      ],
+      "timeline": [
+        {"date": "2023-11-01", "event": "Project Kickoff"},
+        {"date": "2024-03-01", "event": "Land Acquisition Completed"},
+        {"date": "2024-12-01", "event": "Work Stalled - Fund Delay"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "150 MT", "status": "Pending"},
+        {"name": "Aggregate (20mm)", "quantity": "2,000 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ004",
+      "name": "Nashik-Trimbak Road Upgrade",
+      "district": "Nashik",
+      "authority": "MSRDC",
+      "contractor": "L&T Infrastructure",
+      "completionPercent": 100,
+      "status": "Completed",
+      "startDate": "2023-02-01",
+      "endDate": "2024-08-15",
+      "budgetCr": 67.5,
+      "spentCr": 65.9,
+      "lengthKm": 14.0,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 100},
+        {"name": "Sub-base Laying", "progress": 100},
+        {"name": "Bituminous Layer", "progress": 100},
+        {"name": "Drainage & Signage", "progress": 100}
+      ],
+      "timeline": [
+        {"date": "2023-02-01", "event": "Project Kickoff"},
+        {"date": "2024-08-15", "event": "Project Completed & Handed Over"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "580 MT", "status": "Delivered"},
+        {"name": "Aggregate (20mm)", "quantity": "3,900 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ005",
+      "name": "Kolhapur-Sangli Corridor",
+      "district": "Kolhapur",
+      "authority": "NHAI",
+      "contractor": "Afcons Infrastructure",
+      "completionPercent": 60,
+      "status": "In Progress",
+      "startDate": "2024-03-10",
+      "endDate": "2025-12-20",
+      "budgetCr": 210.0,
+      "spentCr": 118.6,
+      "lengthKm": 41.0,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 95},
+        {"name": "Sub-base Laying", "progress": 60},
+        {"name": "Bituminous Layer", "progress": 25},
+        {"name": "Drainage & Signage", "progress": 10}
+      ],
+      "timeline": [
+        {"date": "2024-03-10", "event": "Project Kickoff"},
+        {"date": "2024-08-20", "event": "Land Acquisition Completed"},
+        {"date": "2025-04-15", "event": "Earthwork 95% Done"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "1,020 MT", "status": "Delivered"},
+        {"name": "Aggregate (20mm)", "quantity": "6,500 MT", "status": "Delivered"},
+        {"name": "Cement", "quantity": "2,300 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ006",
+      "name": "Amravati Inner Ring Road",
+      "district": "Amravati",
+      "authority": "MSRDC",
+      "contractor": "GR Infraprojects",
+      "completionPercent": 8,
+      "status": "Delayed",
+      "startDate": "2024-09-01",
+      "endDate": "2025-11-30",
+      "budgetCr": 76.0,
+      "spentCr": 9.4,
+      "lengthKm": 12.4,
+      "delayDays": 60,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 60},
+        {"name": "Earthwork", "progress": 5},
+        {"name": "Sub-base Laying", "progress": 0},
+        {"name": "Bituminous Layer", "progress": 0},
+        {"name": "Drainage & Signage", "progress": 0}
+      ],
+      "timeline": [
+        {"date": "2024-09-01", "event": "Project Kickoff"},
+        {"date": "2025-01-15", "event": "Land Acquisition Delayed - Litigation"}
+      ],
+      "materials": [
+        {"name": "Aggregate (20mm)", "quantity": "500 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ007",
+      "name": "Solapur-Barshi Highway",
+      "district": "Solapur",
+      "authority": "PWD Maharashtra",
+      "contractor": "Dilip Buildcon",
+      "completionPercent": 100,
+      "status": "Completed",
+      "startDate": "2022-10-01",
+      "endDate": "2024-03-31",
+      "budgetCr": 54.2,
+      "spentCr": 53.0,
+      "lengthKm": 22.0,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 100},
+        {"name": "Sub-base Laying", "progress": 100},
+        {"name": "Bituminous Layer", "progress": 100},
+        {"name": "Drainage & Signage", "progress": 100}
+      ],
+      "timeline": [
+        {"date": "2022-10-01", "event": "Project Kickoff"},
+        {"date": "2024-03-31", "event": "Project Completed & Handed Over"}
+      ],
+      "materials": [
+        {"name": "Bitumen", "quantity": "740 MT", "status": "Delivered"}
+      ]
+    },
+    {
+      "id": "PRJ008",
+      "name": "Latur Bypass Construction",
+      "district": "Latur",
+      "authority": "NHAI",
+      "contractor": "Afcons Infrastructure",
+      "completionPercent": 33,
+      "status": "In Progress",
+      "startDate": "2024-05-20",
+      "endDate": "2025-10-15",
+      "budgetCr": 88.0,
+      "spentCr": 29.0,
+      "lengthKm": 16.8,
+      "delayDays": 0,
+      "stages": [
+        {"name": "Land Acquisition", "progress": 100},
+        {"name": "Earthwork", "progress": 55},
+        {"name": "Sub-base Laying", "progress": 20},
+        {"name": "Bituminous Layer", "progress": 0},
+        {"name": "Drainage & Signage", "progress": 0}
+      ],
+      "timeline": [
+        {"date": "2024-05-20", "event": "Project Kickoff"},
+        {"date": "2024-10-01", "event": "Land Acquisition Completed"}
+      ],
+      "materials": [
+        {"name": "Aggregate (20mm)", "quantity": "3,200 MT", "status": "Delivered"}
+      ]
+    }
+  ],
+  "authorities": [
+    {"name": "PWD Maharashtra", "monthlyCompletion": [10, 18, 25, 33, 40, 48, 55, 62, 68, 74, 80, 85]},
+    {"name": "NHAI", "monthlyCompletion": [8, 14, 20, 27, 33, 38, 44, 49, 55, 60, 66, 71]},
+    {"name": "MSRDC", "monthlyCompletion": [5, 9, 13, 18, 22, 27, 31, 36, 40, 45, 50, 55]}
+  ],
+  "notifications": [
+    {"id": "N001", "title": "Bituminous work resumed", "message": "NH-48 Widening Phase 2 - work resumed after rain delay.", "project": "NH-48 Widening Phase 2", "time": "2 hours ago", "unread": true},
+    {"id": "N002", "title": "Fund delay flagged", "message": "Aurangabad-Jalna Bypass has crossed 120 days delay threshold.", "project": "Aurangabad-Jalna Bypass", "time": "5 hours ago", "unread": true},
+    {"id": "N003", "title": "Project completed", "message": "Nashik-Trimbak Road Upgrade has been marked complete and handed over.", "project": "Nashik-Trimbak Road Upgrade", "time": "1 day ago", "unread": true},
+    {"id": "N004", "title": "Material delivery update", "message": "3,100 MT Cement in transit for NH-48 Widening Phase 2.", "project": "NH-48 Widening Phase 2", "time": "2 days ago", "unread": false},
+    {"id": "N005", "title": "Litigation update", "message": "Land acquisition litigation ongoing for Amravati Inner Ring Road.", "project": "Amravati Inner Ring Road", "time": "3 days ago", "unread": false},
+    {"id": "N006", "title": "Milestone reached", "message": "Kolhapur-Sangli Corridor earthwork reached 95% completion.", "project": "Kolhapur-Sangli Corridor", "time": "4 days ago", "unread": false}
+  ]
+}
